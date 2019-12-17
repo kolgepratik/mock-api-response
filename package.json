@@ -1,7 +1,18 @@
 {
   "name": "mock-api-response",
-  "version": "1.0.25",
+  "version": "1.0.28",
   "description": "Mock api responses",
+  "keywords": [
+    "mock",
+    "emulate",
+    "development",
+    "test",
+    "api",
+    "node",
+    "express",
+    "rest",
+    "http"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
