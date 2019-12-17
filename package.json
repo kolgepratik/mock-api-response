@@ -1,7 +1,7 @@
 {
   "name": "mock-api-response",
-  "version": "1.0.28",
-  "description": "Mock api responses",
+  "version": "1.0.30",
+  "description": "Mock responses for your APIs for testing and developing web applications and services",
   "keywords": [
     "mock",
     "emulate",
@@ -11,7 +11,8 @@
     "node",
     "express",
     "rest",
-    "http"
+    "http",
+    "cors"
   ],
   "main": "index.js",
   "scripts": {
@@ -19,14 +20,14 @@
   },
   "author": "kolgepratik",
   "license": "MIT",
-  "homepage": "https://github.com/kolgepratik/mock-api-response#readme",
+  "homepage": "https://github.com/kolgepratik/nodejs.mock-api-response#readme",
   "bugs": {
-    "url": "https://github.com/kolgepratik/mock-api-response/issues",
+    "url": "https://github.com/kolgepratik/nodejs.mock-api-response/issues",
     "email": "kolge.pratik@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kolgepratik/mock-api-response"
+    "url": "https://github.com/kolgepratik/nodejs.mock-api-response"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
